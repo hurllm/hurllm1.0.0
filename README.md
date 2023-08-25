@@ -29,6 +29,19 @@ dependencies_installer.describe()
 
 ## Usage
 
+Below is a simple example of using the HurLLM algorithm in a conversation in chat mode. Notice how simple the library is to use, even for novice programmers.
+
+```python
+# import and instantiate the main class
+from hurllm import HurLLM
+hurllm = HurLLM('YOUR_API_KEY')
+
+# code to ask the question and return the answer
+answer = hurllm.conversation('Hello! Tell me what your skills are.')
+print(answer)
+
+```
+
 Check below a code example that makes use of all the resources of the library. In this code we specify all possible parameter, method and function names.
 
 ```python
