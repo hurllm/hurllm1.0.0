@@ -10,6 +10,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install HurLLM.
 pip install hurllm
 ```
 
+Dependencies are automatically installed at package installation time. But if you prefer, you can install them manually using the code below, in case there is an error with the default installation.
+
 ```python
 # code for installing all necessary dependencies
 # import the main class
