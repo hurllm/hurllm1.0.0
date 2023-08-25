@@ -71,6 +71,24 @@ del hurllm # this will be required to end the session if you have enabled the "s
 
 ```
 
+Note that it is also possible to attach multiple files for analysis. There is no limit to the number of files, but the greater the number of files, the heavier the execution of the model.
+
+```python
+# import and instantiate the main class
+from hurllm import HurLLM
+hurllm = HurLLM('YOUR_API_KEY')
+
+# code to attach files to the model
+hurllm.addFile('image.jpg') # add an image file
+hurllm.addFile('file.pdf') # add a pdf document
+hurllm.addFile('audio.mp3') # add an audio file
+
+# code to ask the question and return the answer
+answer = hurllm.conversation('Create a single paragraph story using the contents of the attached files.')
+print(answer)
+
+```
+
 Note: when downloading the zip rename the extracted folder from hurllm1.0.0-main to hurllm.
 
 ## Contributing
