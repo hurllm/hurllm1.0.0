@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/hurllm/hurllm1.0.0/blob/main/hurllm.png"></div>
+<div align="center"><a href="https://hurllm.web.app" target="_blank"><img src="https://github.com/hurllm/hurllm1.0.0/blob/main/hurllm.png"></a></div>
 
 # HurLLM
 
