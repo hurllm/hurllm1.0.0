@@ -1,6 +1,6 @@
 # HurLLM
 
-This is a Python library for accessing and using the proprietary closed-source, general-purpose Artificial Intelligence model named HurLLM that uses the Transformers architecture focused on conversational solutions.
+This is a Python library for accessing and using the proprietary closed-source, general-purpose Artificial Intelligence model named HurLLM that uses the Transformers architecture focused on conversational solutions. Click [here](https://hurllm.web.app/) to go to the project's website and get a free API key for testing.
 
 ## Installation
 
