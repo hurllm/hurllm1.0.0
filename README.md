@@ -67,6 +67,8 @@ del hurllm # this will be required to end the session if you have enabled the "s
 
 ```
 
+Note: when downloading the zip rename the extracted folder from hurllm1.0.0-main to hurllm
+
 ## Contributing
 
 We do not accept contributions that may result in changing the original code.
