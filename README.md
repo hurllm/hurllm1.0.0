@@ -29,6 +29,8 @@ dependencies_installer.describe()
 
 ## Usage
 
+Check below a code example that makes use of all the resources of the library. In this code we specify all possible parameter, method and function names.
+
 ```python
 # code example for a conversation in chat mode
 # import the main class
